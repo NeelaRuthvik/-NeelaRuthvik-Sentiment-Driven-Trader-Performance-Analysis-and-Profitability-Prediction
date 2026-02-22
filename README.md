@@ -19,7 +19,6 @@ The project includes:
 ```
 ├── Sentiment_Driven_Trader_Performance_Analysis_and_Profitability_Prediction.ipynb
 ├── README.md
-├── requirements.txt (optional)
 ├── outputs/
 │   ├── charts/
 │   ├── tables/
